@@ -36,9 +36,9 @@ public class MainActivity extends Activity implements OnClickListener{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
-		findViewById(R.id.btn_alipay).setOnClickListener(this);
-		findViewById(R.id.btn_wechatpay).setOnClickListener(this);
+		//模拟调起支付,实际项目中参照
+		//findViewById(R.id.btn_alipay).setOnClickListener(this);
+		//findViewById(R.id.btn_wechatpay).setOnClickListener(this);
 	}
 
 	@Override
