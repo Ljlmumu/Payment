@@ -16,8 +16,7 @@ import org.jdom.input.SAXBuilder;
 import cz.msebera.android.httpclient.NameValuePair;
 
 /**
- * 项目名称 : PaymentDemo<br>
- * 创建人 : dgs<br>
+ * 创建人 : skyCracks<br>
  * 创建时间 : 2016-7-18上午11:09:08<br>
  * 版本 :	[v1.0]<br>
  * 类描述 : xml解析及生成<br>

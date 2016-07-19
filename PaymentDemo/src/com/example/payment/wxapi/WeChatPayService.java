@@ -27,9 +27,7 @@ import cz.msebera.android.httpclient.conn.util.InetAddressUtils;
 import cz.msebera.android.httpclient.message.BasicNameValuePair;
 
 /**
- * 
- * 项目名称 : PaymentDemo<br>
- * 创建人 : dgs<br>
+ * 创建人 : skyCracks<br>
  * 创建时间 : 2016-7-18上午11:02:34<br>
  * 版本 : [v1.0]<br>
  * 类描述 : 微信支付实现服务端操作及后续调起支付<br>

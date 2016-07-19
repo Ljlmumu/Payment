@@ -1,7 +1,6 @@
 package com.example.payment.wxapi;
 
 /**
- * 项目名称 : PaymentDemo<br>
  * 创建人 : skyCracks<br>
  * 创建时间 : 2016-7-18上午10:12:59<br>
  * 版本 :	[v1.0]<br>

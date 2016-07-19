@@ -2,8 +2,7 @@ package com.example.payment.alipay;
 
 
 /**
- * 项目名称 : PaymentDemo<br>
- * 创建人 : dgs<br>
+ * 创建人 : skyCracks<br>
  * 创建时间 : 2016-7-18上午10:39:12<br>
  * 版本 :	[v1.0]<br>
  * 类描述 : 支付宝支付所需参数及配置<br>

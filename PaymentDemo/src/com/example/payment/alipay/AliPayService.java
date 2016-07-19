@@ -13,9 +13,7 @@ import android.os.Handler;
 import android.os.Message;
 
 /**
- * 
- * 项目名称 : PaymentDemo<br>
- * 创建人 : dgs<br>
+ * 创建人 : skyCracks<br>
  * 创建时间 : 2016-7-18上午11:20:08<br>
  * 版本 :	[v1.0]<br>
  * 类描述 : 支付宝支付实现服务端操作及后续调起支付<br>
@@ -25,9 +23,9 @@ public class AliPayService {
 	/**
 	 * 支付, 唯一主要方法
 	 * @param payEntity 支付商品对象
-	 * @param mHandler
-	 * @param payFlag
-	 * @param activity
+	 * @param mHandler	支付结果回调
+	 * @param payFlag	mHandler what 
+	 * @param activity	调起支付Activity
 	 */
 	public static void pay(PayEntity payEntity, final Handler mHandler, final int payFlag, final Activity activity){
 		String orderInfo = getOrderInfo(payEntity);
